@@ -2,7 +2,7 @@
 
 Effective date: January 14, 2019
 
-Bahar Bijuteri ("us", "we", or "our") operates the Sultan Moda mobile application (the "Service").
+Sultan Moda ("us", "we", or "our") operates the Sultan Moda mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
